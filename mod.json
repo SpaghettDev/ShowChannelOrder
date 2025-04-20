@@ -8,7 +8,7 @@
 	},
 	"id": "spaghettdev.show_channel_order",
 	"name": "Show Channel Order",
-	"version": "v1.0.0",
+	"version": "v1.1.0",
 	"developer": "SpaghettDev",
 	"description": "Shows channel/order input in Group ID Layer",
 	"links": {
