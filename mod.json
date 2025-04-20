@@ -1,0 +1,25 @@
+{
+	"geode": "4.3.1",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "spaghettdev.show_channel_order",
+	"name": "Show Channel Order",
+	"version": "v1.0.0",
+	"developer": "SpaghettDev",
+	"description": "Shows channel/order input in Group ID Layer",
+	"links": {
+		"community": "https://discord.gg/3bShQb6Jz3",
+		"source": "https://github.com/SpaghettDev/ShowChannelOrder"
+	},
+	"issues": {
+		"info": "Report any bugs/suggestions here.",
+		"url": "https://github.com/SpaghettDev/ShowChannelOrder/issues"
+	},
+	"tags": [
+		"editor", "bugfix"
+	]
+}
